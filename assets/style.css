@@ -62,17 +62,17 @@ a:hover {color: #f09228;}
 
 /* Projects */
 .homepage .project {
-  height: 130pt;
+  height: 180pt;
   outline: thin dotted #666666;
   margin: 10pt 20pt 10pt 20pt;  /*top right bottom left*/
 }
 .homepage .project .image {
-  height: 120pt;
-  width: 160pt;
+  height: 160pt;
+  width: 180pt;
   float: left;
 }
 .homepage .project .image img {
-  height: 120pt;
+  height: 160pt;
   width: 160pt;
   margin: 5pt;
   object-fit: cover;
